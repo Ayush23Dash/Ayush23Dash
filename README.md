@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Ayush Shankar&nbsp;
-
-<div class="tenor-gif-embed" data-postid="14672196" data-share-method="host" data-width="100%" data-aspect-ratio="1.008097165991903">[Husky Hi GIF](https://tenor.com/view/husky-hi-tinder-match-gif-14672196) from [Husky GIFs](https://tenor.com/search/husky-gifs)</div>
+<img src="https://github.com/ayush23dash/ayush23dash/blob/master/assets/hi.gif">
 
 <p>
     I am a 3rd Year undergraduate from <a href="http://www.msit.in/"> <b>Maharaja Surajmal Institute of Technology</b></a>. <br><br>
