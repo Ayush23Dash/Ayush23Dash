@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 --!>
 
 <!--
 **Ayush23Dash/Ayush23Dash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Ayush Shankar&nbsp;
+
+<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 100px;">
+
+<p>
+    I am a 3rd Year undergraduate from <a href="http://www.msit.in/"> <b>Maharaja Surajmal Institute of Technology</b></a>. <br><br>
+    MERN Stack Developer  
+</p>
+
+
+<br>
+
+
+
+
+
+  <a href="https://www.linkedin.com/in/ayush23dash/">
+    <img align="left" alt="ayush23dash | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/ayush23dash">
+    <img align="left" alt="ayush23dash | Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/ayush_shankar">
+    <img align="left" alt="Hargun | Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:ayushshanker23@gmail.com">
+    <img align="left" alt="ayush23dash | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+  </a>
+  <a href="https://sourcerer.io/ayush23dash">
+    <img align="left" alt="ayush23dash | Sourcerer" width="24px" src="https://sourcerer.io/icons/favicon-16x16.png" />
+  </a>
+
+<br><br>
+
+**⭐️ From [ayush23dash](https://github.com/ayush23dash)**
