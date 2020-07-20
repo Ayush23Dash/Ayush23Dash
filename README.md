@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Ayush Shankar&nbsp;
 
-<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 100px;">
+<div class="tenor-gif-embed" data-postid="14672196" data-share-method="host" data-width="100%" data-aspect-ratio="1.008097165991903">[Husky Hi GIF](https://tenor.com/view/husky-hi-tinder-match-gif-14672196) from [Husky GIFs](https://tenor.com/search/husky-gifs)</div>
 
 <p>
     I am a 3rd Year undergraduate from <a href="http://www.msit.in/"> <b>Maharaja Surajmal Institute of Technology</b></a>. <br><br>
