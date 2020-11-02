@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 
 <br><br>
 
-**⭐️ From [ayush23dash](https://github.com/ayush23dash)**
+
