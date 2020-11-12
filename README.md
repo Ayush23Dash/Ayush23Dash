@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <p>
     I am a 3rd Year undergraduate from <a href="http://www.msit.in/"> <b>Maharaja Surajmal Institute of Technology</b></a>. <br><br>
+    DSC MSIT
     MERN Stack Developer  
 </p>
 
