@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<!--
+
   <a href="https://www.linkedin.com/in/ayush23dash/">
     <img align="left" alt="ayush23dash | Linkedin" width="24px" src="https://github.com/ayush23dash/ayush23dash/blob/master/assets/linkedin.svg" />
   </a>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <a href="https://sourcerer.io/ayush23dash">
     <img align="left" alt="ayush23dash | Sourcerer" width="24px" src="https://avatars3.githubusercontent.com/u/29913589?s=200&v=4" />
   </a>
--->
+
 <br><br>
 
 
