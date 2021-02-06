@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <img align="left" alt="ayush23dash | Sourcerer" width="24px" src="https://avatars3.githubusercontent.com/u/29913589?s=200&v=4" />
   </a>
 <br><br>
-<summary>:zap: <b>GitHub Stats</b></summary>
+<summary>:zap: <h3><b>GitHub Stats</b></h3></summary>
 
   ![Ayush's github stats](https://github-readme-stats-vert-phi.vercel.app/api?username=ayush23dash&show_icons=true&theme=synthwave&count_private=false)
 
@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=ayush23dash&color=brightgreen)
 -->
 <br />
-<br><br>
+
 
 
