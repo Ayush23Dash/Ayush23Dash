@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 
 ## Hi there <img src="https://github.com/Ayush23Dash/Ayush23Dash/blob/master/assets/wave.gif" width="27px">
-I'm Ayush Shankar, currently an undergraduate student at [MSIT](https://msit.in/), pursuing bachelor's degree majoring in Information Technology. I'm passionate about backend and frontend technologies. I also love contributing to open source.<br>Currently interning at @<a href="https://www.groundtruth.com/">GroundTruth</a>.
+I'm Ayush Shankar, currently an undergraduate student at [MSIT](https://msit.in/), pursuing bachelor's degree majoring in Information Technology. I'm passionate about backend and frontend technologies. I also love contributing to open source.<br>Currently interning @<a href="https://www.groundtruth.com/">GroundTruth</a>.
 
 ### 🛠 Languages and Tools 
   <img height="30" src="https://github.com/Ayush23Dash/Ayush23Dash/blob/master/assets/js.png"> &nbsp; &nbsp;
