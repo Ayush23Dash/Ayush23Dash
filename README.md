@@ -86,7 +86,7 @@ I'm Ayush Shankar, currently an undergraduate student at [MSIT](https://msit.in/
 
 ![Peek 2020-07-09 15-53](https://github.com/Ayush23Dash/Ayush23Dash/blob/master/assets/Gitreadme.gif)
 # 💫 About Me:
-I'm Ayush Shankar, currently a Bachelor's Degree passout from MSIT, currently working at <a href="https://www.groundtruth.com/" target="_blank">@GroundTruth</a>(<a href="https://www.weatherbug.com/">WeatherBug</a>). I'm passionate about backend and frontend technologies. I also love contributing to open source.<br>
+I'm Ayush Shankar, a Bachelor's Degree passout from MSIT, currently working at <a href="https://www.groundtruth.com/" target="_blank">@GroundTruth</a>(<a href="https://www.weatherbug.com/">WeatherBug</a>). I'm passionate about backend and frontend technologies. I also love contributing to open source.<br>
 
 
 ## 🌐 Socials:
