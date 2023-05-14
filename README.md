@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/ayush23dash/ayush23dash/blob/master/assets/hi.gif">
 
 <p>
-    I am a 3rd Year undergraduate from <a href="http://www.msit.in/"> <b>Maharaja Surajmal Institute of Technology</b></a>. <br><br>
+    I am a graduate in Information Technology from <a href="http://www.msit.in/"> <b>Maharaja Surajmal Institute of Technology</b></a>. <br><br>
     Core @<a target="_blank" href="https://dsc.msit.in/">DSC MSIT</a><br>
     MERN Stack Developer  
 </p>
